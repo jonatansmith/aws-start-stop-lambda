@@ -7,6 +7,6 @@ Edit crontab (crontab -e) and add:
 `*/30 * * * * /home/ec2-user/autoshutdown.sh`
 
 ### Search tags
-Script to shutdown EC2 if no use
-Bash to stop EC2 instance after idle period
-Shell script to save costs with EC2
+Script to shutdown EC2 if no use  
+Bash to stop EC2 instance after idle period  
+Shell script to save costs with EC2  
